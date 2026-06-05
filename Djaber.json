@@ -1,0 +1,38 @@
+[
+  {
+    "No": 1,
+    "Name": "Bulbasaur",
+    "Type1": "Grass",
+    "Type2": "Poison",
+    "Height": 0.7,
+    "Weight": 6.9,
+    "Legendary": 0
+  },
+  {
+    "No": 2,
+    "Name": "Ivysaur",
+    "Type1": "Grass",
+    "Type2": "Poison",
+    "Height": 1.0,
+    "Weight": 13.0,
+    "Legendary": 0
+  },
+  {
+    "No": 4,
+    "Name": "Charmander",
+    "Type1": "Fire",
+    "Type2": null,
+    "Height": 0.6,
+    "Weight": 8.5,
+    "Legendary": 0
+  },
+  {
+    "No": 144,
+    "Name": "Articuno",
+    "Type1": "Ice",
+    "Type2": "Flying",
+    "Height": 1.7,
+    "Weight": 55.4,
+    "Legendary": 1
+  }
+]
